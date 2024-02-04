@@ -14,3 +14,14 @@ Hierarchy Levels and Groups
 ![image](https://github.com/erickobrinsky/PowerBI/assets/78773449/5a4168f7-a80d-4afb-b9df-e11a2932c710)
 
 
+RRHH project includes:
+DAX (Avg, Count, YEARFRAC)
+Creating Group Columns with DAX
+Changing Pages with Bookmarks
+Performance Evaluation
+Salary Analysis
+Publishing on the web
+![image](https://github.com/erickobrinsky/PowerBI/assets/78773449/e9ac5573-0bb2-49b1-8265-9ac7511ab3ab)
+
+
+
