@@ -11,4 +11,6 @@ Correlations with Scatter Chart
 Conditional Formatting
 Hierarchy Levels and Groups
 ![image](https://github.com/erickobrinsky/PowerBI/assets/78773449/83ca5284-9292-4f5c-826b-f4ef6ccd762a)
+![image](https://github.com/erickobrinsky/PowerBI/assets/78773449/5a4168f7-a80d-4afb-b9df-e11a2932c710)
+
 
